@@ -55,3 +55,13 @@ sudo apt update && sudo apt install terraform
 - Entrega de infraestrutra mais rápida
 - Padronização de códigos e trabalho em equipe
 
+## Tecnologias utilizadas
+
+**Client:** Ubuntu, Terraform, Ansible
+
+**Server:** EC2, docker
+
+
+## Suporte
+
+Para suporte entre em contato comigo no linkedin.
