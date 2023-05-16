@@ -1,6 +1,6 @@
 # Projetos IAC cloud
 
-Projetos clouds de automação utilizando terraforme  ansible
+Projetos clouds de automação utilizando terraform e  ansible
 
 
 ## Tecnologias utilizadas
