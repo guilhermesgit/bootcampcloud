@@ -1,65 +1,30 @@
-# Projetos IAC cloud
 
-Projetos clouds de automação utilizando terraform e  ansible
+# The Cloud Bootcamp Devops - 2024
 
+Bem-vindo ao The Cloud Bootcamp, uma imersão transformadora no universo da computação em nuvem projetada pela empresa líder em soluções tecnológicas, The Cloud. Este bootcamp oferece uma experiência intensiva e prática, destinada a capacitar profissionais e entusiastas da tecnologia a dominarem os fundamentos e as nuances da computação em nuvem. Com um currículo abrangente e instrutores especializados, o The Cloud Bootcamp promete equipar os participantes com as habilidades necessárias para navegar e inovar neste ambiente dinâmico e crucial para o futuro da computação. Prepare-se para mergulhar em uma jornada emocionante rumo ao domínio da nuvem.
 
-## Tecnologias utilizadas
-
- - [Terraform]()
- - [Amazon web service]()
- - [Ansible]()
+![Logo](https://pbs.twimg.com/profile_images/1216838832508874754/ehswnrQh_400x400.jpg)
 
  
 
 
-## Motivação
+## Sobre o bootcamp
 
-Automação de projetos para a entrega contínua de sistemas focado em CICD
-
-## Guilherme Soares
-
-- [@guilhermesoares](https://www.github.com/guilhermesgit)
+ - [Youtube](https://www.youtube.com/channel/UCWWBoGQZqlRpsavT-WEVxMA)
+ - [Linkedin](https://www.linkedin.com/school/the-cloud-bootcamp/)
+ - [Site oficial](https://thecloudbootcamp.com/pt/)
 
 
-## Rodando as aplicações
+## Bootcamp Devops focado em AWS
 
-Para rodar as aplicações é necessário instalar o terraform e o ansible
-
-Linux
-```bash
-  apt install ansible -y
-```
-Testando a instalação
-```bash
- ansible --version
-```
-
-Instalando o terraform
-```bash
-wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
-sudo apt update && sudo apt install terraform
-
-```
-## Documentação
-
-[Terraform](https://)
-
-[Ansible](https://)
-
-[AWS](https://)
-
-## Características
-
-- Automação de infraestrutra
-- Entrega de infraestrutra mais rápida
-- Padronização de códigos e trabalho em equipe
-
-## Tecnologias utilizadas
-
-**Client:** Ubuntu, Terraform, Ansible
-
-**Server:** EC2, docker
+- [Módulo 1 - Github]()
+- [Módulo 2 - Terraform]()
+- [Módulo 3 - Ansible]()
+- [Módulo 4 - Docker]()
+- [Módulo 5 - Kubernetes]()
+- [Módulo 6 - Pipeline CI/CD]()
+- [Módulo 7 - Arquitetura a eventos]()
+- [Módulo 8 - Python]()
 
 
 ## Suporte
