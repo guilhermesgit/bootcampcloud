@@ -27,6 +27,7 @@ Bem-vindo ao The Cloud Bootcamp, uma imersão transformadora no universo da comp
 - [Módulo 8 - Python]()
 
 
-## Suporte
 
-Para suporte entre em contato comigo no linkedin.
+## Contato
+
+Para contato, me envie uma mensagem no linkedin
