@@ -5,7 +5,7 @@ Bem-vindo ao The Cloud Bootcamp, uma imersão transformadora no universo da comp
 
 ![Logo](https://pbs.twimg.com/profile_images/1216838832508874754/ehswnrQh_400x400.jpg)
 
- 
+
 
 
 ## Sobre o bootcamp
@@ -25,9 +25,3 @@ Bem-vindo ao The Cloud Bootcamp, uma imersão transformadora no universo da comp
 - [Módulo 6 - Pipeline CI/CD]()
 - [Módulo 7 - Arquitetura a eventos]()
 - [Módulo 8 - Python]()
-
-
-
-## Contato
-
-Para contato, me envie uma mensagem no linkedin
