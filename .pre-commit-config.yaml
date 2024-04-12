@@ -4,6 +4,8 @@ repos:
     hooks:
     -   id: check-yaml
     -   id: trailing-whitespace
+    -   id: detect-aws-credentials
+
 
 
 -  repo: https://github.com/compilerla/conventional-pre-commit
