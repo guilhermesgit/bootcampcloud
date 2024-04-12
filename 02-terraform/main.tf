@@ -7,8 +7,8 @@ module "dev" {
   image_id        = "amazonlinux-2023-x86_64"
   Ambiente        = "Desenvolvimento"
   connection_type = "CONNECT_SSM"
-  accountid = "111111111111"
-  accountname = "devuser"
+  accountid       = "111111111111"
+  accountname     = "devuser"
 }
 
 
