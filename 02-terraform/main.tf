@@ -1,6 +1,6 @@
 module "dev" {
   source  = "guilhermesgit/cloud9/aws"
-  version = "0.1.2"
+  version = "0.1.3"
 
   for_each = toset(["Dev", "DevOps"])
 
@@ -13,6 +13,15 @@ module "dev" {
   accountid       = "111111111111"
   accountname     = "devuser"
 }
+
+
+resource "aws_codecommit_repository" "repos" {
+  for_each = toset(["humangov-infra", "human-gov-app"])
+
+  repository_name = "TCP-${each.key}"
+  description     = "The Cloud Bootcamp repo"
+}
+
 
 
 /*
