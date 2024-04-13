@@ -6,7 +6,19 @@ Bem-vindo ao The Cloud Bootcamp, uma imersão transformadora no universo da comp
 ![Logo](https://pbs.twimg.com/profile_images/1216838832508874754/ehswnrQh_400x400.jpg)
 
 
+### Code Commit Autenticação
 
+Autenticação
+
+```bash
+
+git config --global user.name "Guiherme Software Developer 1"
+git config --global user.email dev1@humangov.com
+
+git config --global credential.helper '!aws codecommit credential-helper $@'
+git config --global credential.UseHttpPath true
+
+```
 
 ## Sobre o bootcamp
 
